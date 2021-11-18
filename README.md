@@ -31,5 +31,15 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">
 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="Maven" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/7658037?s=280&v=4" alt="swagger" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="swagger" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/10251060?s=280&v=4" alt="Postman" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm" height="40" style="vertical-align:top; margin:4px">
+ 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="json" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="Jquery" height="40" style="vertical-align:top; margin:4px">
+<img src="https://curl.se/logo/curl-logo.svg" alt="Curl" height="15" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" height="40" style="vertical-align:top; margin:4px">
 
   </p>
